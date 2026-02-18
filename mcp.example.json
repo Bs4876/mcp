@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "software-management": {
+      "command": "python",
+      "args": ["<PATH_TO_YOUR_LOCAL_CLONE>/main.py"]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+software_registry.json
+
+# OS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
